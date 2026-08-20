@@ -8,7 +8,3 @@ def gistemp_fetch():
     return dataFrame
 
  
-
-
-
-print(gistemp_fetch()  )  
