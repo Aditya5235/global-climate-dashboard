@@ -1,0 +1,296 @@
+Country_code,region,is_aggregate
+ABW,Latin America & Caribbean ,False
+AFE,Aggregates,True
+AFG,"Middle East, North Africa, Afghanistan & Pakistan",False
+AFR,Aggregates,True
+AFW,Aggregates,True
+AGO,Sub-Saharan Africa ,False
+ALB,Europe & Central Asia,False
+AND,Europe & Central Asia,False
+ARB,Aggregates,True
+ARE,"Middle East, North Africa, Afghanistan & Pakistan",False
+ARG,Latin America & Caribbean ,False
+ARM,Europe & Central Asia,False
+ASM,East Asia & Pacific,False
+ATG,Latin America & Caribbean ,False
+AUS,East Asia & Pacific,False
+AUT,Europe & Central Asia,False
+AZE,Europe & Central Asia,False
+BDI,Sub-Saharan Africa ,False
+BEA,Aggregates,True
+BEC,Aggregates,True
+BEL,Europe & Central Asia,False
+BEN,Sub-Saharan Africa ,False
+BFA,Sub-Saharan Africa ,False
+BGD,South Asia,False
+BGR,Europe & Central Asia,False
+BHI,Aggregates,True
+BHR,"Middle East, North Africa, Afghanistan & Pakistan",False
+BHS,Latin America & Caribbean ,False
+BIH,Europe & Central Asia,False
+BLA,Aggregates,True
+BLR,Europe & Central Asia,False
+BLZ,Latin America & Caribbean ,False
+BMN,Aggregates,True
+BMU,North America,False
+BOL,Latin America & Caribbean ,False
+BRA,Latin America & Caribbean ,False
+BRB,Latin America & Caribbean ,False
+BRN,East Asia & Pacific,False
+BSS,Aggregates,True
+BTN,South Asia,False
+BWA,Sub-Saharan Africa ,False
+CAA,Aggregates,True
+CAF,Sub-Saharan Africa ,False
+CAN,North America,False
+CEA,Aggregates,True
+CEB,Aggregates,True
+CEU,Aggregates,True
+CHE,Europe & Central Asia,False
+CHI,Europe & Central Asia,False
+CHL,Latin America & Caribbean ,False
+CHN,East Asia & Pacific,False
+CIV,Sub-Saharan Africa ,False
+CLA,Aggregates,True
+CME,Aggregates,True
+CMR,Sub-Saharan Africa ,False
+COD,Sub-Saharan Africa ,False
+COG,Sub-Saharan Africa ,False
+COL,Latin America & Caribbean ,False
+COM,Sub-Saharan Africa ,False
+CPV,Sub-Saharan Africa ,False
+CRI,Latin America & Caribbean ,False
+CSA,Aggregates,True
+CSS,Aggregates,True
+CUB,Latin America & Caribbean ,False
+CUW,Latin America & Caribbean ,False
+CYM,Latin America & Caribbean ,False
+CYP,Europe & Central Asia,False
+CZE,Europe & Central Asia,False
+DEA,Aggregates,True
+DEC,Aggregates,True
+DEU,Europe & Central Asia,False
+DJI,"Middle East, North Africa, Afghanistan & Pakistan",False
+DLA,Aggregates,True
+DMA,Latin America & Caribbean ,False
+DMN,Aggregates,True
+DNK,Europe & Central Asia,False
+DNS,Aggregates,True
+DOM,Latin America & Caribbean ,False
+DSA,Aggregates,True
+DSF,Aggregates,True
+DSS,Aggregates,True
+DZA,"Middle East, North Africa, Afghanistan & Pakistan",False
+EAP,Aggregates,True
+EAR,Aggregates,True
+EAS,Aggregates,True
+ECA,Aggregates,True
+ECS,Aggregates,True
+ECU,Latin America & Caribbean ,False
+EGY,"Middle East, North Africa, Afghanistan & Pakistan",False
+EMU,Aggregates,True
+ERI,Sub-Saharan Africa ,False
+ESP,Europe & Central Asia,False
+EST,Europe & Central Asia,False
+ETH,Sub-Saharan Africa ,False
+EUU,Aggregates,True
+FIN,Europe & Central Asia,False
+FJI,East Asia & Pacific,False
+FRA,Europe & Central Asia,False
+FRO,Europe & Central Asia,False
+FSM,East Asia & Pacific,False
+FXS,Aggregates,True
+GAB,Sub-Saharan Africa ,False
+GBR,Europe & Central Asia,False
+GEO,Europe & Central Asia,False
+GHA,Sub-Saharan Africa ,False
+GIB,Europe & Central Asia,False
+GIN,Sub-Saharan Africa ,False
+GMB,Sub-Saharan Africa ,False
+GNB,Sub-Saharan Africa ,False
+GNQ,Sub-Saharan Africa ,False
+GRC,Europe & Central Asia,False
+GRD,Latin America & Caribbean ,False
+GRL,Europe & Central Asia,False
+GTM,Latin America & Caribbean ,False
+GUM,East Asia & Pacific,False
+GUY,Latin America & Caribbean ,False
+HIC,Aggregates,True
+HKG,East Asia & Pacific,False
+HND,Latin America & Caribbean ,False
+HPC,Aggregates,True
+HRV,Europe & Central Asia,False
+HTI,Latin America & Caribbean ,False
+HUN,Europe & Central Asia,False
+IBB,Aggregates,True
+IBD,Aggregates,True
+IBT,Aggregates,True
+IDA,Aggregates,True
+IDB,Aggregates,True
+IDN,East Asia & Pacific,False
+IDX,Aggregates,True
+IMN,Europe & Central Asia,False
+IND,South Asia,False
+INX,Aggregates,True
+IRL,Europe & Central Asia,False
+IRN,"Middle East, North Africa, Afghanistan & Pakistan",False
+IRQ,"Middle East, North Africa, Afghanistan & Pakistan",False
+ISL,Europe & Central Asia,False
+ISR,"Middle East, North Africa, Afghanistan & Pakistan",False
+ITA,Europe & Central Asia,False
+JAM,Latin America & Caribbean ,False
+JOR,"Middle East, North Africa, Afghanistan & Pakistan",False
+JPN,East Asia & Pacific,False
+KAZ,Europe & Central Asia,False
+KEN,Sub-Saharan Africa ,False
+KGZ,Europe & Central Asia,False
+KHM,East Asia & Pacific,False
+KIR,East Asia & Pacific,False
+KNA,Latin America & Caribbean ,False
+KOR,East Asia & Pacific,False
+KWT,"Middle East, North Africa, Afghanistan & Pakistan",False
+LAC,Aggregates,True
+LAO,East Asia & Pacific,False
+LBN,"Middle East, North Africa, Afghanistan & Pakistan",False
+LBR,Sub-Saharan Africa ,False
+LBY,"Middle East, North Africa, Afghanistan & Pakistan",False
+LCA,Latin America & Caribbean ,False
+LCN,Aggregates,True
+LDC,Aggregates,True
+LIC,Aggregates,True
+LIE,Europe & Central Asia,False
+LKA,South Asia,False
+LMC,Aggregates,True
+LMY,Aggregates,True
+LSO,Sub-Saharan Africa ,False
+LTE,Aggregates,True
+LTU,Europe & Central Asia,False
+LUX,Europe & Central Asia,False
+LVA,Europe & Central Asia,False
+MAC,East Asia & Pacific,False
+MAF,Latin America & Caribbean ,False
+MAR,"Middle East, North Africa, Afghanistan & Pakistan",False
+MCO,Europe & Central Asia,False
+MDA,Europe & Central Asia,False
+MDE,Aggregates,True
+MDG,Sub-Saharan Africa ,False
+MDV,South Asia,False
+MEA,Aggregates,True
+MEX,Latin America & Caribbean ,False
+MHL,East Asia & Pacific,False
+MIC,Aggregates,True
+MKD,Europe & Central Asia,False
+MLI,Sub-Saharan Africa ,False
+MLT,"Middle East, North Africa, Afghanistan & Pakistan",False
+MMR,East Asia & Pacific,False
+MNA,Aggregates,True
+MNE,Europe & Central Asia,False
+MNG,East Asia & Pacific,False
+MNP,East Asia & Pacific,False
+MOZ,Sub-Saharan Africa ,False
+MRT,Sub-Saharan Africa ,False
+MUS,Sub-Saharan Africa ,False
+MWI,Sub-Saharan Africa ,False
+MYS,East Asia & Pacific,False
+NAC,Aggregates,True
+NAF,Aggregates,True
+NAM,Sub-Saharan Africa ,False
+NCL,East Asia & Pacific,False
+NER,Sub-Saharan Africa ,False
+NGA,Sub-Saharan Africa ,False
+NIC,Latin America & Caribbean ,False
+NLD,Europe & Central Asia,False
+NOR,Europe & Central Asia,False
+NPL,South Asia,False
+NRS,Aggregates,True
+NRU,East Asia & Pacific,False
+NXS,Aggregates,True
+NZL,East Asia & Pacific,False
+OED,Aggregates,True
+OMN,"Middle East, North Africa, Afghanistan & Pakistan",False
+OSS,Aggregates,True
+PAK,"Middle East, North Africa, Afghanistan & Pakistan",False
+PAN,Latin America & Caribbean ,False
+PER,Latin America & Caribbean ,False
+PHL,East Asia & Pacific,False
+PLW,East Asia & Pacific,False
+PNG,East Asia & Pacific,False
+POL,Europe & Central Asia,False
+PRE,Aggregates,True
+PRI,Latin America & Caribbean ,False
+PRK,East Asia & Pacific,False
+PRT,Europe & Central Asia,False
+PRY,Latin America & Caribbean ,False
+PSE,"Middle East, North Africa, Afghanistan & Pakistan",False
+PSS,Aggregates,True
+PST,Aggregates,True
+PYF,East Asia & Pacific,False
+QAT,"Middle East, North Africa, Afghanistan & Pakistan",False
+ROU,Europe & Central Asia,False
+RRS,Aggregates,True
+RUS,Europe & Central Asia,False
+RWA,Sub-Saharan Africa ,False
+SAS,Aggregates,True
+SAU,"Middle East, North Africa, Afghanistan & Pakistan",False
+SDN,Sub-Saharan Africa ,False
+SEN,Sub-Saharan Africa ,False
+SGP,East Asia & Pacific,False
+SLB,East Asia & Pacific,False
+SLE,Sub-Saharan Africa ,False
+SLV,Latin America & Caribbean ,False
+SMR,Europe & Central Asia,False
+SOM,Sub-Saharan Africa ,False
+SRB,Europe & Central Asia,False
+SSA,Aggregates,True
+SSD,Sub-Saharan Africa ,False
+SSF,Aggregates,True
+SST,Aggregates,True
+STP,Sub-Saharan Africa ,False
+SUR,Latin America & Caribbean ,False
+SVK,Europe & Central Asia,False
+SVN,Europe & Central Asia,False
+SWE,Europe & Central Asia,False
+SWZ,Sub-Saharan Africa ,False
+SXM,Latin America & Caribbean ,False
+SXZ,Aggregates,True
+SYC,Sub-Saharan Africa ,False
+SYR,"Middle East, North Africa, Afghanistan & Pakistan",False
+TCA,Latin America & Caribbean ,False
+TCD,Sub-Saharan Africa ,False
+TEA,Aggregates,True
+TEC,Aggregates,True
+TGO,Sub-Saharan Africa ,False
+THA,East Asia & Pacific,False
+TJK,Europe & Central Asia,False
+TKM,Europe & Central Asia,False
+TLA,Aggregates,True
+TLS,East Asia & Pacific,False
+TMN,Aggregates,True
+TON,East Asia & Pacific,False
+TSA,Aggregates,True
+TSS,Aggregates,True
+TTO,Latin America & Caribbean ,False
+TUN,"Middle East, North Africa, Afghanistan & Pakistan",False
+TUR,Europe & Central Asia,False
+TUV,East Asia & Pacific,False
+TZA,Sub-Saharan Africa ,False
+UGA,Sub-Saharan Africa ,False
+UKR,Europe & Central Asia,False
+UMC,Aggregates,True
+URY,Latin America & Caribbean ,False
+USA,North America,False
+UZB,Europe & Central Asia,False
+VCT,Latin America & Caribbean ,False
+VEN,Latin America & Caribbean ,False
+VGB,Latin America & Caribbean ,False
+VIR,Latin America & Caribbean ,False
+VNM,East Asia & Pacific,False
+VUT,East Asia & Pacific,False
+WLD,Aggregates,True
+WSM,East Asia & Pacific,False
+XKX,Europe & Central Asia,False
+XZN,Aggregates,True
+YEM,"Middle East, North Africa, Afghanistan & Pakistan",False
+ZAF,Sub-Saharan Africa ,False
+ZMB,Sub-Saharan Africa ,False
+ZWE,Sub-Saharan Africa ,False
